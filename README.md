@@ -26,8 +26,12 @@ This program is desigend to work on a video game, aMaze, and will be released (a
 Overall main was created the 25th at 6:00PM and the final commit was the 26th at 12:30 PM which is pretty OK time for something like this.
 
 ## Author
+
 Christopher R. Fischer
+
 Freedom High School / Valencia Community College
+
 Cisco Certified Progressional / Oracle Certified / Microsoft Technology Associate / CompTia Certified / NAUI SCUBA Diver Certified.
+
 Best way to contact me is via my GitHub.
 
