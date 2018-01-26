@@ -10,10 +10,14 @@ The program has two potential arguments. hardmode, where any color that is not t
 
 ## Classes
 The programs classes and purposes are as follows:
-cleaner - go through the image, find distance between colors and make guesses, and convert the maze into a 2d char array for faster processing.
-point - an object used to track any x,y and past path
-solver - the object that contains the logic of the program - for instance where to move 
-exporter - the portion of the program that converts the 2d character array, after processing, into a BufferedImage and writes it to disk.
+
+> cleaner - go through the image, find distance between colors and make guesses, and convert the maze into a 2d char array for faster processing.
+
+> point - an object used to track any x,y and past path
+
+> solver - the object that contains the logic of the program - for instance where to move 
+
+> exporter - the portion of the program that converts the 2d character array, after processing, into a BufferedImage and writes it to disk.
 
 ## Purpose
 This program is desigend to work on a video game, aMaze, and will be released (again) in conjunction with my next project which will play the game autonomously. 
